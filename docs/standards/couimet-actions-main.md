@@ -1,6 +1,6 @@
 # couimet GitHub Actions use @main
 
-Source: rule `couimet-actions-main` in [couimet/github-actions README.md](https://github.com/couimet/github-actions/blob/main/README.md). That file is the only source. The block below stays equal to it.
+Source: the rule comes from [couimet/github-actions](https://github.com/couimet/github-actions). This file is the canonical copy. Copy the block below into a repository's CLAUDE.md file.
 
 ```xml
 <rule id="couimet-actions-main" priority="critical">
