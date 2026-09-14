@@ -10,6 +10,8 @@ Hobby work: developer tools for AI-assisted coding.
 
 ## Technologies
 
+These badges describe my personal familiarity with each technology, each badge links to a repository that shows the technology in use.
+
 ### Use regularly
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/couimet/rangeLink)
